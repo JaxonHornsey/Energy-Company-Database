@@ -1,0 +1,15 @@
+body {
+  background-color: #a96f2dc4;
+  text-align: center;
+}
+
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+legend {
+ border-bottom: 0px solid #e5e5e5;
+}
+
+
